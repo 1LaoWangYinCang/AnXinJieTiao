@@ -1,14 +1,13 @@
-# TianTian red envelope
-TianTian red envelope is a practical app that keeps track of the daily exchange of red envelopes. People can record the red envelopes they receive and send, so as to facilitate their interpersonal communication and human interaction with others.
+# JieBiFenGaoShou
 
-Our app can record the amount of the red envelope, the source of the red envelope, as well as the story behind the red envelope, seriously record every red envelope, record every blessing, these are good memories.
+JieBiFenGaoShou is a synchronized swimming competitions, the score synchronized swimming learning, to buy the APP of synchronized swimming equipment, it aims to promote synchronized swimming movement, so that people can buy in our daily life to professional synchronized swimming equipment, learn to detailed synchronized swimming points, at the same time also can easily record.
 
-When you input your own red envelopes, our app will count the total amount and the number of red envelopes for you, which is convenient and quick, so that you can see the amount and number of your red envelopes at a glance.
+- Our A synchronised Swimming provides a detailed breakdown of these synchronised swimming equipment, including synchronised swimming training suits, synchronised swimming caps and goggles, synchronised swimming nose clips and earplugs, and synchronised swimming bags. These categories of synchronized swimming equipment can meet the user's choice and purchase.
 
-After each user input the details of the red envelope, you can view the details at any time, view the scene at that time, to help recall the story behind each red envelope.
+- There is also a page of knowledge points about synchronized swimming in our app. We have summarized all kinds of knowledge points about synchronized swimming, so that you can have a better understanding of synchronized swimming and like synchronized swimming.
 
-Our app can also mark red envelopes with special meaning for us, so that we can check them at any time and go back to the scene at any time. These are all good memories.
+- Our app also has the function of recording the score on the spot. You can record the score and details of the match, record every synchronized swimming match you like, record the harvest and growth of each match, and share the competition record and the joy of victory.
 
-TianTian red envelope let red envelopes blessings are well recorded.
+Synchronized swimming, lotus water, water ballet!
 
-If you have any questions, please contact us at ： ffxq19940605@icloud.com
+If you have any questions, please contact us at ： sf19860812@icloud.com
