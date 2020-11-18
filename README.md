@@ -1,13 +1,7 @@
-# JieBiFenGaoShou
+# AnXinJieTiao
 
-JieBiFenGaoShou is a synchronized swimming competitions, the score synchronized swimming learning, to buy the APP of synchronized swimming equipment, it aims to promote synchronized swimming movement, so that people can buy in our daily life to professional synchronized swimming equipment, learn to detailed synchronized swimming points, at the same time also can easily record.
+AnXinJieTiao is a record between friends borrow debt repayment aim APP, records management tool is very convenient, can have to record every sum anytime and anywhere, avoid forget due to long time, can also flag important sum, remind yourself at any time, at the same time our APP also summarizes all the loan and the amount of the arrears, can make you clear understanding of their own financial situation, make reasonable planning in a timely manner. Our APP can also delete the completed account records, so that the accounts can be checked and returned at a glance, which is convenient for management.
 
-- Our A synchronised Swimming provides a detailed breakdown of these synchronised swimming equipment, including synchronised swimming training suits, synchronised swimming caps and goggles, synchronised swimming nose clips and earplugs, and synchronised swimming bags. These categories of synchronized swimming equipment can meet the user's choice and purchase.
+Keeping a record of accounts is also a record of personal transactions, to facilitate your life and let you feel at ease.
 
-- There is also a page of knowledge points about synchronized swimming in our app. We have summarized all kinds of knowledge points about synchronized swimming, so that you can have a better understanding of synchronized swimming and like synchronized swimming.
-
-- Our app also has the function of recording the score on the spot. You can record the score and details of the match, record every synchronized swimming match you like, record the harvest and growth of each match, and share the competition record and the joy of victory.
-
-Synchronized swimming, lotus water, water ballet!
-
-If you have any questions, please contact us at ： sf19860812@icloud.com
+If you have any questions, please contact us at ： apex_solutions@icloud.com
