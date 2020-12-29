@@ -1,7 +1,15 @@
-# AnXinJieTiao
+# QingJinXiaoJin
 
-AnXinJieTiao is a record between friends borrow debt repayment aim APP, records management tool is very convenient, can have to record every sum anytime and anywhere, avoid forget due to long time, can also flag important sum, remind yourself at any time, at the same time our APP also summarizes all the loan and the amount of the arrears, can make you clear understanding of their own financial situation, make reasonable planning in a timely manner. Our APP can also delete the completed account records, so that the accounts can be checked and returned at a glance, which is convenient for management.
+QingJinXiaoJin is a record management App to add account transactions between friends. Its main functions include:
 
-Keeping a record of accounts is also a record of personal transactions, to facilitate your life and let you feel at ease.
+1. Make it easy and convenient for people to record every payment in their life and avoid forgetting it over time.
 
-If you have any questions, please contact us at ： apex_solutions@icloud.com
+2. Mark important accounts. Mark important accounts to remind yourself at any time.
+
+3. Professional interest calculation function, can accurately calculate the amount of interest, professional and reliable, convenient to calculate the interest, a great convenience for life.
+
+4. I can book courses related to account transactions, and at the same time, I can learn the basic knowledge of sharing account transactions, understand the professional knowledge of account transactions, and avoid financial losses and disputes.
+
+Record accounts, learn knowledge, book courses!
+
+If you have any questions, please contact us at ：mckotoohh@hotmail.com
