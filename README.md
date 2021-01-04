@@ -1,15 +1,9 @@
 # WeiMingXiaoJin
 
-WeiMingXiaoJin is a record management App to add account transactions between friends. 
+WeiMingXiaoJin is to easily and conveniently record the accounts of friends in daily life, and to record every sum of money at any time, so as to avoid forgetting it over time. Besides, important accounts can also be marked, and important accounts can be marked to remind themselves at any time. Convenient for life, professional use.
 
-Our App can make it easy and convenient for people to record every payment in their life and avoid forgetting it over time.
+Our APP has a professional interest calculation function, which can accurately calculate the amount of interest, professional and reliable, convenient calculation. Our APP can also book courses related to account transactions, learn the basic knowledge of account transactions, understand the professional knowledge of account transactions, and avoid financial losses and disputes.
 
-Our App can mark important accounts. Mark important accounts to remind yourself at any time.
-
-Our App can professional interest calculation function, can accurately calculate the amount of interest, professional and reliable, convenient to calculate the interest, a great convenience for life.
-
-Our App can book courses related to account transactions, and at the same time, I can learn the basic knowledge of sharing account transactions, understand the professional knowledge of account transactions, and avoid financial losses and disputes.
-
-Record accounts, learn knowledge, book courses!
+One key to book offline courses, easy to add account records!
 
 If you have any questions, please contact us at ：mckotoohh@hotmail.com
