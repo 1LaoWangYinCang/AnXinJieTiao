@@ -4,6 +4,8 @@ XiuCiXiaoJin is to easily and conveniently record the accounts of friends in dai
 
 Our APP has a professional interest calculation function, which can accurately calculate the amount of interest, professional and reliable, convenient calculation. Our APP can also book courses related to account transactions, learn the basic knowledge of account transactions, understand the professional knowledge of account transactions, and avoid financial losses and disputes.
 
+Our APP also allows users to access the latest accounts related information and share useful information for comment collections
+
 One key to book offline courses, easy to add account records!
 
 If you have any questions, please contact us at ：BLOSSOM_HO@icloud.com
