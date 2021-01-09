@@ -1,4 +1,4 @@
-#XiuCiXiaoJin
+# XiuCiXiaoJin
 
 XiuCiXiaoJin is to easily and conveniently record the accounts of friends in daily life, and to record every sum of money at any time, so as to avoid forgetting it over time. Besides, important accounts can also be marked, and important accounts can be marked to remind themselves at any time. Convenient for life, professional use.
 
